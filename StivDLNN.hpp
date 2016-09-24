@@ -1,3 +1,7 @@
+/** Deep Neural Network algorithm, header file
+Copyright (C) 2016 Stefan Ivanovic **/
+
+
 #include <iostream>
 #include <math.h>
 #include <vector>
